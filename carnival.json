@@ -3,52 +3,62 @@
         {
             "Club Name": "Humans of MITS",
             "Event Name": "Story Booth",
-            "Venue": "In front of canteen"
+            "Venue": "In front of canteen",
+            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
             "Club Name": "Cadcrew",
             "Event Name": "Aakarkala",
-            "Venue": "Carnival Stalls"
+            "Venue": "Carnival Stalls",
+            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
             "Club Name": "IEI Electronics Chapter",
             "Event Name": "Electronics Games",
-            "Venue": "Carnival Stalls"
+            "Venue": "Carnival Stalls",
+            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
             "Club Name": "Skyroads Club",
             "Event Name": "Gaming Arena",
-            "Venue": "Carnival Stalls"
+            "Venue": "Carnival Stalls",
+            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
             "Club Name": "Architecture Club",
             "Event Name": "Pottery and Clay",
-            "Venue": "Carnival Stalls"
+            "Venue": "Carnival Stalls",
+            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
             "Club Name": "GFG Student Chapter",
             "Event Name": "GFG Stall",
-            "Venue": "Carnival Stalls"
+            "Venue": "Carnival Stalls",
+            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
             "Club Name": "Meditation Club",
             "Event Name": "Meditation",
-            "Venue": "Director’s Lawn"
+            "Venue": "Director’s Lawn",
+            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
             "Club Name": "Artistry",
             "Event Name": "Art Stall",
-            "Venue": "Carnival Stalls"
+            "Venue": "Carnival Stalls",
+            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
             "Club Name": "Fitness Club",
             "Event Name": "Fit Stall",
-            "Venue": "Carnival Stalls"
+            "Venue": "Carnival Stalls",
+            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
             "Club Name": "Lafz-e-Bayan",
             "Event Name": "Open Mic",
-            "Venue": "Carnival Stalls"
+            "Venue": "Carnival Stalls",
+            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         }
     ]
 }
