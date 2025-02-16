@@ -1,53 +1,54 @@
-{"Carnival": [
-    {
-      "Club Name": "Humans of MITS",
-      "Event Name": "Story Booth",
-      "Venue": "In front of canteen"
-    },
-    {
-      "Club Name": "Cadcrew",
-      "Event Name": "Aakarkala",
-      "Venue": "Carnival Stalls"
-    },
-    {
-      "Club Name": "IEI Electronics Chapter",
-      "Event Name": "Electronics Games",
-      "Venue": "Carnival Stalls"
-    },
-    {
-      "Club Name": "Skyroads Club",
-      "Event Name": "Gaming Arena",
-      "Venue": "Carnival Stalls"
-    },
-    {
-      "Club Name": "Architecture Club",
-      "Event Name": "Pottery and Clay",
-      "Venue": "Carnival Stalls"
-    },
-    {
-      "Club Name": "GFG Student Chapter",
-      "Event Name": "GFG Stall",
-      "Venue": "Carnival Stalls"
-    },
-    {
-      "Club Name": "Meditation Club",
-      "Event Name": "Meditation",
-      "Venue": "Director’s Lawn"
-    },
-    {
-      "Club Name": "Artistry",
-      "Event Name": "Art Stall",
-      "Venue": "Carnival Stalls"
-    },
-    {
-      "Club Name": "Fitness Club",
-      "Event Name": "Fit Stall",
-      "Venue": "Carnival Stalls"
-    },
-    {
-      "Club Name": "Lafz-e-Bayan",
-      "Event Name": "Open Mic",
-      "Venue": "Carnival Stalls"
-      
-    }
-  ]}
+{
+    "Carnival": [
+        {
+            "Club Name": "Humans of MITS",
+            "Event Name": "Story Booth",
+            "Venue": "In front of canteen"
+        },
+        {
+            "Club Name": "Cadcrew",
+            "Event Name": "Aakarkala",
+            "Venue": "Carnival Stalls"
+        },
+        {
+            "Club Name": "IEI Electronics Chapter",
+            "Event Name": "Electronics Games",
+            "Venue": "Carnival Stalls"
+        },
+        {
+            "Club Name": "Skyroads Club",
+            "Event Name": "Gaming Arena",
+            "Venue": "Carnival Stalls"
+        },
+        {
+            "Club Name": "Architecture Club",
+            "Event Name": "Pottery and Clay",
+            "Venue": "Carnival Stalls"
+        },
+        {
+            "Club Name": "GFG Student Chapter",
+            "Event Name": "GFG Stall",
+            "Venue": "Carnival Stalls"
+        },
+        {
+            "Club Name": "Meditation Club",
+            "Event Name": "Meditation",
+            "Venue": "Director’s Lawn"
+        },
+        {
+            "Club Name": "Artistry",
+            "Event Name": "Art Stall",
+            "Venue": "Carnival Stalls"
+        },
+        {
+            "Club Name": "Fitness Club",
+            "Event Name": "Fit Stall",
+            "Venue": "Carnival Stalls"
+        },
+        {
+            "Club Name": "Lafz-e-Bayan",
+            "Event Name": "Open Mic",
+            "Venue": "Carnival Stalls"
+        }
+    ]
+}
