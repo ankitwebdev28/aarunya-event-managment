@@ -1,32 +1,28 @@
-
 {
   "teamMembers": [
     {
-      "name": "John Doe",
+      "name": "Pushpendra Singh Gurjar",
       "position": "President",
       "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
       "linkedin": "#",
       "instagram": "#",
-      "email": "mailto:johndoe@example.com",
-      "phone": "tel:+1234567890"
+      "phone": "tel:+918770111275"
     },
     {
-      "name": "Aryavardhan Rathour",
+      "name": "Rudraksh Shukla",
       "position": "Vice President",
       "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
       "linkedin": "#",
       "instagram": "#",
-      "email": "mailto:aryavardhan@example.com",
-      "phone": "tel:+0987654321"
+      "phone": "tel:+918989484091"
     },
     {
-      "name": "Aryavardhan Rathour",
+      "name": "GARVIT Sharma ",
       "position": "Vice President",
       "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
       "linkedin": "#",
       "instagram": "#",
-      "email": "mailto:aryavardhan@example.com",
-      "phone": "tel:+0987654321"
+      "phone": "tel:+918349228797"
     }
   ]
 }
