@@ -18,6 +18,15 @@
       "instagram": "#",
       "email": "mailto:aryavardhan@example.com",
       "phone": "tel:+0987654321"
+    },
+    {
+      "name": "Aryavardhan Rathour",
+      "position": "Vice President",
+      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
+      "linkedin": "#",
+      "instagram": "#",
+      "email": "mailto:aryavardhan@example.com",
+      "phone": "tel:+0987654321"
     }
   ]
 }
