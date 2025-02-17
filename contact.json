@@ -17,12 +17,28 @@
       "phone": "tel:+918989484091"
     },
     {
-      "name": "GARVIT Sharma ",
+      "name": "Garvit Sharma ",
       "position": "Vice President",
       "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
       "linkedin": "#",
       "instagram": "#",
       "phone": "tel:+918349228797"
+    },
+    {
+      "name": "Anushka Choubey",
+      "position": "Secretary",
+      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
+      "linkedin": "#",
+      "instagram": "#",
+      "phone": "tel:+919827195942"
+    },
+    {
+      "name": "Amul Agrawal",
+      "position": "Treasurer",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739805554/Web%20Heads/WhatsApp_Image_2025-02-17_at_20.43.53_6690c86e_loqdjo.jpg",
+      "linkedin": "#",
+      "instagram": "https://www.instagram.com/psd.amul",
+      "phone": "tel:+919479310105"
     }
   ]
 }
