@@ -1,1 +1,64 @@
-
+{
+  "technicalEvents": [
+    {
+      "ClubName": "Rashtraay",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
+      "EventName": "Rashtraay"
+    },
+    {
+      "ClubName": "Bandish",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
+      "EventName": "Bandish"
+    },
+    {
+      "ClubName": "Fitness Club",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
+      "EventName": "Treasure Hunt"
+    },
+    {
+      "ClubName": "Dance Club",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
+      "EventName": "Dance Competition"
+    },
+    {
+      "ClubName": "Dance Club",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
+      "EventName": "Dance Club Performance"
+    },
+    {
+      "ClubName": " ",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
+      "EventName": "DJ Night"
+    },
+    {
+      "ClubName": "StopNot",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
+      "EventName": "Content Creation Workshop"
+    },
+    {
+      "ClubName": "Bandish",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
+      "EventName": "Singing Competition"
+    },
+    {
+      "ClubName": "IEEE Chapter",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
+      "EventName": "Poster Event"
+    },
+    {
+      "ClubName": "Frame Flicks Club",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
+      "EventName": "Castle of Frame Flicks"
+    },
+    {
+      "ClubName": "-",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
+      "EventName": "Valedictory Session"
+    },
+    {
+      "ClubName": "-",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
+      "EventName": "Artist Performance"
+    }
+  ]
+}
