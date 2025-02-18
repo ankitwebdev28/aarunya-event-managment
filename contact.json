@@ -1,5 +1,5 @@
 {
-  "teamMembers": [
+  "President": [
     {
       "name": "Pushpendra Singh Gurjar",
       "position": "President",
@@ -7,7 +7,9 @@
       "linkedin": "#",
       "instagram": "#",
       "phone": "tel:+918770111275"
-    },
+    }
+  ],
+  "Vice President": [
     {
       "name": "Rudraksh Shukla",
       "position": "Vice President",
@@ -23,7 +25,9 @@
       "linkedin": "#",
       "instagram": "#",
       "phone": "tel:+918349228797"
-    },
+    }
+  ],
+  "Secretary & Treasurer": [
     {
       "name": "Anushka Choubey",
       "position": "Secretary",
