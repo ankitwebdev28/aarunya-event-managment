@@ -1,18 +1,18 @@
 {
-  "President": [
+  "teamMembers": [
     {
       "name": "Pushpendra Singh Gurjar",
       "position": "President",
+      "subPosition": "President",
       "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
       "linkedin": "#",
       "instagram": "#",
       "phone": "tel:+918770111275"
-    }
-  ],
-  "Vice President": [
+    },
     {
       "name": "Rudraksh Shukla",
       "position": "Vice President",
+      "subPosition": "Vice President",
       "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
       "linkedin": "#",
       "instagram": "#",
@@ -21,16 +21,16 @@
     {
       "name": "Garvit Sharma ",
       "position": "Vice President",
+      "subPosition": "Vice President",
       "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
       "linkedin": "#",
       "instagram": "#",
       "phone": "tel:+918349228797"
-    }
-  ],
-  "Secretary & Treasurer": [
+    },
     {
       "name": "Anushka Choubey",
-      "position": "Secretary",
+      "position": "Secretary & Treasurer",
+      "subposition": "Secretary",
       "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
       "linkedin": "#",
       "instagram": "#",
@@ -38,7 +38,8 @@
     },
     {
       "name": "Amul Agrawal",
-      "position": "Treasurer",
+      "position": "Secretary & Treasurer",
+      "subposition": "Treasurer",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739805554/Web%20Heads/WhatsApp_Image_2025-02-17_at_20.43.53_6690c86e_loqdjo.jpg",
       "linkedin": "#",
       "instagram": "https://www.instagram.com/psd.amul",
