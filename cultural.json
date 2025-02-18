@@ -1,1 +1,50 @@
-
+[
+  {
+    "ClubName": "Rashtraay",
+    "EventName": "Rashtraay"
+  },
+  {
+    "ClubName": "Bandish",
+    "EventName": "Bandish"
+  },
+  {
+    "ClubName": "Fitness Club",
+    "EventName": "Treasure Hunt"
+  },
+  {
+    "ClubName": "Dance Club",
+    "EventName": "Dance Competition"
+  },
+  {
+    "ClubName": "Dance Club",
+    "EventName": "Dance Club Performance"
+  },
+  {
+    "ClubName": " ",
+    "EventName": "DJ Night"
+  },
+  {
+    "ClubName": "StopNot",
+    "EventName": "Content Creation Workshop"
+  },
+  {
+    "ClubName": "Bandish",
+    "EventName": "Singing Competition"
+  },
+  {
+    "ClubName": "IEEE Chapter",
+    "EventName": "Poster Event"
+  },
+  {
+    "ClubName": "Frame Flicks Club",
+    "EventName": "Castle of Frame Flicks"
+  },
+  {
+    "ClubName": "-",
+    "EventName": "Valedictory Session"
+  },
+  {
+    "ClubName": "-",
+    "EventName": "Artist Performance"
+  }
+]
