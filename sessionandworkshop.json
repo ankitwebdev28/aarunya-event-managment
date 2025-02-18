@@ -1,1 +1,32 @@
+{
+  "workshopEvents": [
+    {
+      "title": "Workshop 101",
+      "venue": "Workshop Room",
+      "prize": "2000",
+      "date": "25 Feb 2025",
+      "time": "10AM - 12PM",
+      "description": "Join us for an interactive session on modern technologies and innovations.",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+    },
+    {
+      "title": "AI & ML Workshop",
+      "venue": "Tech Lab",
+      "prize": "3500",
+      "date": "26 Feb 2025",
+      "time": "2PM - 4PM",
+      "description": "An insightful workshop covering AI and ML concepts with hands-on practice.",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/ai_ml_workshop.png"
+    },
+    {
+      "title": "Cybersecurity Basics",
+      "venue": "Cyber Hub",
+      "prize": "2500",
+      "date": "27 Feb 2025",
+      "time": "1PM - 3PM",
+      "description": "Learn the fundamentals of cybersecurity and how to protect yourself online.",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/cybersecurity_workshop.png"
+    }
+  ]
+}
 
