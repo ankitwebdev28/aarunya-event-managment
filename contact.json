@@ -4,25 +4,25 @@
       "name": "Pushpendra Singh Gurjar",
       "position": "President",
       "subPosition": "President",
-      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739960645/updated%20web%20heads%20list/Profile_Picture_-_Pushpendra_Gurjar_petikj_cmizia_qmfsts.png",
       "linkedin": "#",
-      "instagram": "#",
+      "instagram": "https://www.instagram.com/pushpendraa.gurjar",
       "phone": "tel:+918770111275"
     },
     {
       "name": "Rudraksh Shukla",
       "position": "Vice President",
       "subPosition": "Vice President",
-      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739960645/updated%20web%20heads%20list/IMG_20250209_141558_-_Rudraksh_Shukla_rwsqe5_c5mdhr_kktjrq.jpg",
       "linkedin": "#",
-      "instagram": "#",
+      "instagram": "https://www.instagram.com/rud_shukla",
       "phone": "tel:+918989484091"
     },
     {
       "name": "Garvit Sharma ",
       "position": "Vice President",
       "subPosition": "Vice President",
-      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739960646/updated%20web%20heads%20list/Screenshot_20250207-231726_-_Garvit_Sharma_ofky2d_ogohhi_zdqsw8.png",
       "linkedin": "#",
       "instagram": "#",
       "phone": "tel:+918349228797"
@@ -31,16 +31,16 @@
       "name": "Anushka Choubey",
       "position": "Secretary",
       "subposition": "Secretary",
-      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739960646/updated%20web%20heads%20list/20250209_184848_-_0901CS221025_ANUSHKA_CHOUBEY_q8aohv_ftlywl_lnvrua.jpg",
       "linkedin": "#",
-      "instagram": "#",
+      "instagram": "https://www.instagram.com/anushkachoubeyy",
       "phone": "tel:+919827195942"
     },
     {
       "name": "Himanshu Sharma",
       "position": "Secretary",
       "subposition": "Secretary",
-      "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/images/signin_image.png",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739960647/updated%20web%20heads%20list/SAVE_20240222_215425_-_Himanshu_Sharma_mvdzuu_ecofes_tbvcfg.jpg",
       "linkedin": "#",
       "instagram": "https://www.instagram.com/Hemanshowyt",
       "phone": "tel:+916261794198"
@@ -58,55 +58,10 @@
       "name": "Nitesh Gurjar",
       "position": "Treasurer",
       "subposition": "Treasurer",
-      "image": "",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739960645/updated%20web%20heads%20list/Nitesh_Gurjar_-_Nitesh_Gurjar_s038bx_b0cvbw_h7ow6c.jpg",
       "linkedin": "#",
       "instagram": "https://www.instagram.com/theniteshgurjar",
       "phone": "tel:+919399191446"
-    },
-    {
-      "name": "Pranjal Dubey",
-      "position": "Heads",
-      "subposition": "Video",
-      "image": "",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/the_pj9",
-      "phone": "tel:+919755815550"
-    },
-    {
-      "name": "jaiesh",
-      "position": "Heads",
-      "subposition": "Graphic",
-      "image": "",
-      "linkedin": "#",
-      "instagram": "",
-      "phone": "tel:+91"
-    },
-    {
-      "name": "Deepansh Kulshrestha",
-      "position": "Heads",
-      "subposition": "Editoral",
-      "image": "",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/kulshrestha_deepansh",
-      "phone": "tel:+918450021055"
-    },
-    {
-      "name": "Satyam",
-      "position": "Heads",
-      "subposition": "Decipline",
-      "image": "",
-      "linkedin": "#",
-      "instagram": "",
-      "phone": ""
-    },
-    {
-      "name": "Tanush Ahuja",
-      "position": "Heads",
-      "subposition": "Sponsorship",
-      "image": "",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/i_em_tanush",
-      "phone": "tel:+91626761277"
     }
   ]
 }
