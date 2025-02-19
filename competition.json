@@ -1,1 +1,12 @@
-
+{
+    "competitions": [
+        {
+            "id": "101",
+            "title": "UI/UX Competition",
+            "category": "Web Design",
+            "image": "https://yourimageurl.com/image.png",
+            "venue": "Colloquium",
+            "club": "GDG Student Chapter"
+        }
+    ]
+}
