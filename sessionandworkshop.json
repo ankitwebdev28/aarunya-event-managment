@@ -1,32 +1,40 @@
 {
   "workshopEvents": [
     {
-      "title": "Workshop 101",
-      "venue": "Workshop Room",
-      "prize": "2000",
-      "date": "25 Feb 2025",
-      "time": "10AM - 12PM",
-      "description": "Join us for an interactive session on modern technologies and innovations.",
+      "EventName": "The Nazm Canvas",
+      "ClubName": "Lafz-e-Bayan",
+      "venue": "SH 11",
+      "date": "07 Mar 2025",
+      "time": "12PM - 02PM",
+      "description": "The competition celebrates poetry, encouraging participants to showcase their creativity and captivate audiences. It aims to inspire self-expression while recognizing and rewarding outstanding talent.",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
     {
-      "title": "AI & ML Workshop",
-      "venue": "Tech Lab",
-      "prize": "3500",
-      "date": "26 Feb 2025",
-      "time": "2PM - 4PM",
-      "description": "An insightful workshop covering AI and ML concepts with hands-on practice.",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/ai_ml_workshop.png"
+      "EventName": "Speech Competition",
+      "ClubName": "Hindi Samiti",
+      "venue": "Conclave Centre",
+      "date": "08 Mar 2025",
+      "time": "11AM - 01PM",
+      "description": "A Gwalior city-level speech competition inviting students to articulate their vision for Viksit Bharat @2047. Participants will deliver impactful speeches, emphasizing the role of youth in building a progressive and developed Bharat.",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
     {
-      "title": "Cybersecurity Basics",
-      "venue": "Cyber Hub",
-      "prize": "2500",
-      "date": "27 Feb 2025",
-      "time": "1PM - 3PM",
-      "description": "Learn the fundamentals of cybersecurity and how to protect yourself online.",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/cybersecurity_workshop.png"
+      "EventName": "Trivia Tournament",
+      "ClubName": "Querencia",
+      "venue": "Drawing Room",
+      "date": "08 Mar 2025",
+      "time": "02PM - 04PM",
+      "description": "Trivia tournament: participants will go through multiple rounds testing their range of knowledge, oratory skills, and presence of mind. A fun and engaging contest where individuals or teams answer questions. It tests knowledge of recent and past cultural phenomena, from the biggest blockbusters to viral memes.",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+    },
+    {
+      "EventName": "Debate Competition",
+      "ClubName": "Speakers Club",
+      "venue": "Conclave Centre",
+      "date": "09 Mar 2025",
+      "time": "01PM - 03PM",
+      "description": "It's the Clash of Wits and Wisdom! An event that allows the participant's to present their veiws on the educational, cultural and innovative topics and themes, showcasing the might of effective communication and intellectual argumentation. Join TCS in Aarunya to celebrate the worth of words.",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     }
   ]
 }
-
