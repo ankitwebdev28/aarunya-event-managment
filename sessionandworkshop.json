@@ -3,9 +3,9 @@
     {
       "EventName": "The Nazm Canvas",
       "ClubName": "Lafz-e-Bayan",
-      "venue": "SH 11",
+      "venue": "Conclave Centre",
       "date": "07 Mar 2025",
-      "time": "12PM - 02PM",
+      "time": "03PM - 06PM",
       "description": "The competition celebrates poetry, encouraging participants to showcase their creativity and captivate audiences. It aims to inspire self-expression while recognizing and rewarding outstanding talent.",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
@@ -19,20 +19,11 @@
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
     {
-      "EventName": "Trivia Tournament",
-      "ClubName": "Querencia",
-      "venue": "Drawing Room",
-      "date": "08 Mar 2025",
-      "time": "02PM - 04PM",
-      "description": "Trivia tournament: participants will go through multiple rounds testing their range of knowledge, oratory skills, and presence of mind. A fun and engaging contest where individuals or teams answer questions. It tests knowledge of recent and past cultural phenomena, from the biggest blockbusters to viral memes.",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-    },
-    {
       "EventName": "Debate Competition",
       "ClubName": "Speakers Club",
-      "venue": "Conclave Centre",
+      "venue": "SH 11",
       "date": "09 Mar 2025",
-      "time": "01PM - 03PM",
+      "time": "11AM - 01PM",
       "description": "It's the Clash of Wits and Wisdom! An event that allows the participant's to present their veiws on the educational, cultural and innovative topics and themes, showcasing the might of effective communication and intellectual argumentation. Join TCS in Aarunya to celebrate the worth of words.",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     }
