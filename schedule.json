@@ -2,7 +2,7 @@
   "Day 1": [
     {
       "Club Name": "",
-      "Event Name": "Inauguration Session",
+      "Event Name": "Inaugral Ceremony",
       "Venue": "Colloquium",
       "Timing": "12PM - 02PM"
     },
@@ -43,7 +43,6 @@
     {
       "Club Name": "",
       "Event Name": "Buffer time",
-      
       "Description": "",
       "Activity Type": "",
       "Timing": "30 - 40 Mins"
