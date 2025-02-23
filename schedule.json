@@ -27,7 +27,7 @@
       "Event Name": "The Nazm Canvas",
       "Budget": "8k",
       "Prize Pool": "5k",
-      "Venue": "SH 11",
+      "Venue": "Conclave Centre",
       "Description": "The competition celebrates poetry, encouraging participants to showcase their creativity and captivate audiences. It aims to inspire self-expression while recognizing and rewarding outstanding talent.",
       "Activity Type": "Literary",
       "Timing": "03PM - 06PM"
@@ -43,7 +43,7 @@
     {
       "Club Name": "",
       "Event Name": "Buffer time",
-      "Venue": "",
+      
       "Description": "",
       "Activity Type": "",
       "Timing": "30 - 40 Mins"
@@ -61,7 +61,7 @@
     {
       "Club Name": "Fitness Club",
       "Event Name": "Treasure Hunt",
-      "Venue": "SH 11",
+      "Venue": "SH 1",
       "Description": "A thrilling treasure hunt game designed to test participants' problem-solving skills, teamwork, and quick thinking. Teams will decode clues, navigate through challenges, and race against time to discover hidden treasures. The event aims to foster camaraderie and strategic thinkingamong participants while ensuring a fun and engaging experience.",
       "Activity Type": "Cultural",
       "Timing": "09AM – 01PM"
@@ -71,7 +71,7 @@
       "Event Name": "MAZE - Solving Bot",
       "Budget": "-",
       "Prize Pool": "8K",
-      "Venue": "SH 1",
+      "Venue": "Basket Ball Court",
       "Description": "A Gwalior city-level speech competition inviting students to articulate their vision for Viksit Bharat @2047. Participants will deliver impactful speeches, emphasizing the role of youth in building a progressive and developed Bharat.",
       "Activity Type": "Literary",
       "Timing": "10AM – 12PM"
@@ -79,7 +79,7 @@
     {
       "Club Name": "Hindi Samiti",
       "Event Name": "Speech Competition",
-      "Venue": "SH 3 & Solar Panel Area",
+      "Venue": "Conclave Center",
       "Description": "This expert talk cum field visit is in collaboration with the solar industry where participants typically tour facilities such as solar panel manufacturing plants, solar farms, or research centers, while the expert provides deeper insights into topics like technology, industry trends, challenges, and career opportunities.",
       "Activity Type": "Workshop/Session",
       "Timing": "11AM – 01PM"
@@ -87,7 +87,7 @@
     {
       "Club Name": "Bandish",
       "Event Name": "Singing Competition",
-      "Venue": "Main Hall First Floor",
+      "Venue": "SAC",
       "Description": "An AI exhibition showcases the latest advancements and applications of artificial intelligence. It typically features interactive displays, demonstrations, and presentations that explore various aspects of AI, from machine learning and computer vision to natural language processing and robotics. These exhibitions offer a glimpse into the potential of AI to transform industries and our daily lives.",
       "Activity Type": "Workshop/Session",
       "Timing": "12PM – 04PM"
@@ -158,7 +158,7 @@
       "Venue": "Campus Area",
       "Description": "A thrilling treasure hunt testing teamwork, problem-solving, and strategy as teams race to decode clues and find hidden treasures.",
       "Activity Type": "Session",
-      "Timing": "12PM – 01PM"
+      "Timing": "09AM – 11AM"
     },
     {
       "Club Name": "",
