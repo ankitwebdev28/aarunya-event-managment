@@ -4,9 +4,10 @@
             "id": "101",
             "title": "UI/UX Competition",
             "category": "Web Design",
-            "image": "https://yourimageurl.com/image.png",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png",
             "venue": "Colloquium",
-            "club": "GDG Student Chapter"
+            "club": "GDG Student Chapter",
+            "registerLink": "https://linktr.ee/aarunya_mitsdu"
         }
     ]
 }
