@@ -1,53 +1,52 @@
 {
-    "teamMembers" :[
-  {
-    "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739804651/Web%20Heads/WhatsApp_Image_2025-02-16_at_21.48.49_8003644d_kblmbo.jpg",
-    "name": "Vansh",
-    "position": "Developer",
-    "instagram": "https://www.instagram.com/vansh._shrivastav"
-  },
-  {
-    "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739804881/Web%20Heads/SAVE_20250211_224722_-_Ankit_Rajput_wai6hp_hrpmos.jpg",
-    "name": "Ankit",
-    "position": "Developer",
-    "instagram": "https://www.instagram.com/ankit_rajput_gwl"
-  },
-  {
-    "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739804648/Web%20Heads/WhatsApp_Image_2025-02-16_at_21.10.40_7e4e39b8_rtxmaq.jpg",
-    "name": "Harshit",
-    "position": "Developer",
-    "instagram": "https://www.instagram.com/harshit._01_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
-  },
-  {
-    "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739805554/Web%20Heads/WhatsApp_Image_2025-02-17_at_20.43.53_6690c86e_loqdjo.jpg",
-    "name": "Amul",
-    "position": "UI/UX developer",
-    "instagram": "https://www.instagram.com/psd.amul"
-  },
+  "teamMembers": [
     {
-    "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739804880/Web%20Heads/55FBB943-3DFC-4FC4-8B4D-317E4D250020_-_Lokendra_Sharma_lrhocw_izmqhc.jpg",
-    "name": "Lokendra",
-    "position": "Developer",
-    "instagram": "https://www.instagram.com/_lokendra___sharma"
-  },
+      "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739804651/Web%20Heads/WhatsApp_Image_2025-02-16_at_21.48.49_8003644d_kblmbo.jpg",
+      "name": "Vansh",
+      "position": "Senior Developer",
+      "instagram": "https://www.instagram.com/vansh._shrivastav"
+    },
     {
-    "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739805555/Web%20Heads/WhatsApp_Image_2025-02-17_at_20.42.31_ec33244c_h6n0vu.jpg",
-    "name": "Shreya",
-    "position": "UI/UX developer",
-    "instagram": "https://www.instagram.com/sshrey._a"
-  },
-  {
-    "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739805556/Web%20Heads/WhatsApp_Image_2025-02-17_at_20.43.04_044ede98_whs3u6.jpg",
-    "name": "Shruti",
-    "position": "UI/UX developer",
-    "instagram": "https://www.instagram.com/__shrutiiiiii15"
-  },
-  {
-    "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739805555/Web%20Heads/WhatsApp_Image_2025-02-17_at_20.41.47_c42664a0_ese0ol.jpg",
-    "name": "Mahak ",
-    "position": "Developer",
-    "instagram": "https://www.instagram.com/mahak_choudhari01"
-  }
-]
-
+      "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739804881/Web%20Heads/SAVE_20250211_224722_-_Ankit_Rajput_wai6hp_hrpmos.jpg",
+      "name": "Ankit",
+      "position": "Senior Developer",
+      "instagram": "https://www.instagram.com/ankit_rajput_gwl"
+    },
+    {
+      "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739804648/Web%20Heads/WhatsApp_Image_2025-02-16_at_21.10.40_7e4e39b8_rtxmaq.jpg",
+      "name": "Harshit",
+      "position": "Senior Developer",
+      "instagram": "https://www.instagram.com/harshit._01_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+    },
+    {
+      "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739805554/Web%20Heads/WhatsApp_Image_2025-02-17_at_20.43.53_6690c86e_loqdjo.jpg",
+      "name": "Amul",
+      "position": "Team Manager",
+      "instagram": "https://www.instagram.com/psd.amul"
+    },
+    {
+      "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739805555/Web%20Heads/WhatsApp_Image_2025-02-17_at_20.42.31_ec33244c_h6n0vu.jpg",
+      "name": "Shreya",
+      "position": "UI/UX Developer",
+      "instagram": "https://www.instagram.com/sshrey._a"
+    },
+    {
+      "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739805556/Web%20Heads/WhatsApp_Image_2025-02-17_at_20.43.04_044ede98_whs3u6.jpg",
+      "name": "Shruti",
+      "position": "UI/UX Developer",
+      "instagram": "https://www.instagram.com/__shrutiiiiii15"
+    },
+    {
+      "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739805555/Web%20Heads/WhatsApp_Image_2025-02-17_at_20.41.47_c42664a0_ese0ol.jpg",
+      "name": "Mahak ",
+      "position": "Junior Developer",
+      "instagram": "https://www.instagram.com/mahak_choudhari01"
+    },
+    {
+      "img": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739804880/Web%20Heads/55FBB943-3DFC-4FC4-8B4D-317E4D250020_-_Lokendra_Sharma_lrhocw_izmqhc.jpg",
+      "name": "Lokendra",
+      "position": "Junior Developer",
+      "instagram": "https://www.instagram.com/_lokendra___sharma"
+    }
+  ]
 }
