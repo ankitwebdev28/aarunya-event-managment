@@ -1,8 +1,8 @@
 {
   "culturalEvents": [
     {
-      "Club Name": "Rashtraay",
-      "Event Name": "Nukkad Natak Annual Play",
+      "ClubName": "Rashtraay",
+      "EventName": "Nukkad Natak Annual Play",
       "venue": "Main Hall Garden",
       "date": "07 Mar 2025",
       "time": "02PM - 04PM",
@@ -10,18 +10,18 @@
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
     {
-      "Club Name": "",
-      "Event Name": "Rahgir Performance",
-      "Venue": "Stage Ground",
+      "ClubName": "",
+      "EventName": "Rahgir Performance",
+      "venue": "Stage Ground",
       "date": "07 Mar 2025",
       "time": "07PM - 09PM",
       "description": "Get ready to find your rhythm and dance like no one's watching because it's about to be a crazy night filled with enthusiasm and an electrifying vibe where a vibrant atmosphere is set, offering a chance to let loose, enjoy music, and connect with others who share a passion for rhythm and dance.",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
     {
-      "Club Name": "Fitness Club",
-      "Event Name": "Treasure Hunt",
-      "Venue": "SH 1",
+      "ClubName": "Fitness Club",
+      "EventName": "Treasure Hunt",
+      "venue": "SH 1",
       "date": "08 Mar 2025",
       "time": "09AM – 01PM",
       "description": "MITS will harmonize with melodies as Bandish brings Notes and Harmony 3.0, an exciting blend of Indian classical, Sufi numbers, and contemporary beats in a concert.",
@@ -37,8 +37,8 @@
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
     {
-      "Club Name": "Bandish",
-      "Event Name": "Music Performance by Bandish",
+      "ClubName": "Bandish",
+      "EventName": "Music Performance by Bandish",
       "venue": "Stage Ground",
       "date": "08 Mar 2025",
       "time": "08PM – 09PM",
@@ -55,7 +55,7 @@
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
     {
-      "Event Name": "Valedictory Ceremony",
+      "EventName": "Valedictory Ceremony",
       "ClubName": "",
       "venue": "Colloquium",
       "date": "09 Mar 2025",
@@ -64,9 +64,9 @@
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
     {
-      "Club Name": "",
-      "Event Name": "DJ AALIYA",
-      "Venue": "Stage Ground",
+      "ClubName": "",
+      "EventName": "DJ AALIYA",
+      "venue": "Stage Ground",
       "date": "09 Mar 2025",
       "time": "07PM – 09PM",
       "description": "A short break from the stress and worries, all shall lose themselves in the unsung melodies, along the lead of Artist and the team.",
