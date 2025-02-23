@@ -1,20 +1,25 @@
 {
-  "titleSponsor": [
-    ""
-  ],
-  "poweredBy": [
-    ""
-  ],
-  "coPoweredBy": [
-    ""
-  ],
-  "Study Abroad Partner": [
-    "https://res.cloudinary.com/dgimh0a2j/image/upload/v1740307973/Food%20partners/new_logo_multi_color_bog6ga.png"
-  ],
-  "Food & Beverage Sponsor": [
+  "allSponsors": [
+    "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739894197/Food%20partners/kereal_safe_ptg17c.png",
+    "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739894197/Food%20partners/kereal_safe_ptg17c.png",
     "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739894197/Food%20partners/kereal_safe_ptg17c.png"
   ],
-  "Social Media Partner": [
-    "https://res.cloudinary.com/dgimh0a2j/image/upload/v1740307972/Food%20partners/1_Creatos_logo_1_ezumqz.png"
+  "titleSponsor": [
+    "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739894197/Food%20partners/kereal_safe_ptg17c.png"
+  ],
+  "poweredBy": [
+    "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739894197/Food%20partners/kereal_safe_ptg17c.png"
+  ],
+  "coPoweredBy": [
+    "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739894197/Food%20partners/kereal_safe_ptg17c.png"
+  ],
+  "presentedBy": [
+    "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739894197/Food%20partners/kereal_safe_ptg17c.png"
+  ],
+  "strategicSponsor": [
+    "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739894197/Food%20partners/kereal_safe_ptg17c.png"
+  ],
+  "foodBeverageSponsor": [
+    "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739894197/Food%20partners/kereal_safe_ptg17c.png"
   ]
 }
