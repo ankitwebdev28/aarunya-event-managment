@@ -4,7 +4,8 @@
       "Club Name": "",
       "Event Name": "Inaugral Ceremony",
       "Venue": "Colloquium",
-      "Timing": "12PM - 02PM"
+      "Timing": "12PM - 02PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
     {
       "Club Name": "Rashtraay",
@@ -15,12 +16,12 @@
       "Timing": "02PM - 04PM"
     },
     {
-      "Club Name": "",
+      "Club Name": "GDG",
       "Event Name": "Hack UI",
       "Venue": "AI Building Lab",
       "Description": "",
       "Activity Type": "",
-      "Timing": "12PM - 05PM"
+      "Timing": "02PM - 06PM"
     },
     {
       "Club Name": "Lafz-e Bayan",
@@ -67,7 +68,7 @@
       "Timing": "09AM – 01PM"
     },
     {
-      "Club Name": "",
+      "Club Name": "Asimov Robotics",
       "Event Name": "MAZE - Solving Bot",
       "Budget": "",
       "Prize Pool": "8K",

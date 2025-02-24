@@ -8,9 +8,44 @@
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
+            "title": "Debate Competition",
+            "venue": "SAC",
+            "club": "Organizer: The Speaker's Club",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Pathway Exploration",
+            "venue": "Colloquium",
+            "club": "Organizer: ISTE X IETE",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
             "title": "Essay Writing Competition",
             "venue": "Main Hall Garden",
             "club": "",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Podcast",
+            "venue": "Colloquium",
+            "club": "Organizer: Stopnot",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "UI/UX Competition",
+            "venue": "Colloquium",
+            "club": "Organizer: GDG MITS",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Robo Maze",
+            "venue": "Basketball Court",
+            "club": "Organizer: Asimov Robotics",
             "registerLink": "https://linktr.ee/aarunya_mits",
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
@@ -31,7 +66,14 @@
         {
             "title": "Dance Competition",
             "venue": "SAC",
-            "club": "Organizer: Dance Club",
+            "club": "Organizer: Nritya Sangam",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Content Creation Workshop",
+            "venue": "Conclave Centre",
+            "club": "Organizer: Stopnot",
             "registerLink": "https://linktr.ee/aarunya_mits",
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         }
