@@ -1,41 +1,6 @@
 {
     "competitions": [
         {
-            "title": "Nukkad Natak Annual Play",
-            "venue": "Main Hall Garden",
-            "club": "Organizer: Rashtraay",
-            "registerLink": "https://linktr.ee/aarunya_mits",
-            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "title": "Debate Competition",
-            "venue": "SAC",
-            "club": "Organizer: The Speaker's Club",
-            "registerLink": "https://linktr.ee/aarunya_mits",
-            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "title": "Pathway Exploration",
-            "venue": "Colloquium",
-            "club": "Organizer: ISTE X IETE",
-            "registerLink": "https://linktr.ee/aarunya_mits",
-            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "title": "Essay Writing Competition",
-            "venue": "Main Hall Garden",
-            "club": "",
-            "registerLink": "https://linktr.ee/aarunya_mits",
-            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "title": "Podcast",
-            "venue": "Colloquium",
-            "club": "Organizer: Stopnot",
-            "registerLink": "https://linktr.ee/aarunya_mits",
-            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
             "title": "UI/UX Competition",
             "venue": "Colloquium",
             "club": "Organizer: GDG MITS",
@@ -43,23 +8,9 @@
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
-            "title": "Robo Maze",
-            "venue": "Basketball Court",
-            "club": "Organizer: Asimov Robotics",
-            "registerLink": "https://linktr.ee/aarunya_mits",
-            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "title": "Speech Competition",
-            "venue": "Conclave Centre",
-            "club": "Organizer: Hindi Samiti",
-            "registerLink": "https://linktr.ee/aarunya_mits",
-            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "title": "Singing Competition",
-            "venue": "SAC",
-            "club": "Organizer: Bandish",
+            "title": "Nukkad Natak Competition",
+            "venue": "Main Hall Garden",
+            "club": "Organizer: Rashtraay",
             "registerLink": "https://linktr.ee/aarunya_mits",
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
@@ -71,9 +22,100 @@
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
-            "title": "Content Creation Workshop",
+            "title": "Singing Competition",
+            "venue": "SAC",
+            "club": "Organizer: Bandish",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Robo Maze",
+            "venue": "Basketball Court",
+            "club": "Organizer: Asimov Robotics",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Debate Competition",
+            "venue": "SAC",
+            "club": "Organizer: The Speaker's Club",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Speech Competition",
             "venue": "Conclave Centre",
-            "club": "Organizer: Stopnot",
+            "club": "Organizer: Hindi Samiti",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Research Poster Competition",
+            "venue": "Conclave Centre",
+            "club": "Organizer: IEEE",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Shayari Competition",
+            "venue": "Colloquium",
+            "club": "Organizer: Lafz-e-Bayan",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Querencia Quiz",
+            "venue": "Colloquium",
+            "club": "Organizer: Querencia",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "AI Exhibition",
+            "venue": "Conclave Centre",
+            "club": "Organizer: AI Club",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "ART Exhibition",
+            "venue": "Conclave Centre",
+            "club": "Organizer: ART Club",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Frame Flicks",
+            "venue": "Main Hall Ground",
+            "club": "Organizer: Frame Flicks",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Essay Writing Competition",
+            "venue": "SH 11",
+            "club": "",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Arcade Mania",
+            "venue": "Director's Lawn",
+            "club": "Organizer: HHC",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "MITS Swad Sangam",
+            "venue": "Room No. 113",
+            "club": "Organizer: Nutrition Ninja",
+            "registerLink": "https://linktr.ee/aarunya_mits",
+            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+        },
+        {
+            "title": "Treasure Hunt",
+            "venue": "SH 1",
+            "club": "Organizer: Fitness Club",
             "registerLink": "https://linktr.ee/aarunya_mits",
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         }
