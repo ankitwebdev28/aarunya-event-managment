@@ -144,7 +144,7 @@
       "Venue": "Stage Ground",
       "Description": "Get ready to find your rhythm and dance like no one's watching because it's about to be a crazy night filled with enthusiasm and an electrifying vibe where a vibrant atmosphere is set, offering a chance to let loose, enjoy music, and connect with others who share a passion for rhythm and dance.",
       "Activity Type": "",
-      "Timing": "07PM – 08PM"
+      "Timing": "08PM – 09PM"
     }
   ],
   "Day 3": [
@@ -154,11 +154,12 @@
       "Venue": "SH 1",
       "Description": "A thrilling treasure hunt testing teamwork, problem-solving, and strategy as teams race to decode clues and find hidden treasures.",
       "Activity Type": "Session",
-      "Timing": "09AM – 11AM"
+      "Timing": "09AM – 11AM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056475/Event%20posters/36_ejphqn.png"
     },
     {
       "Club Name": "Innovation & DIY Club",
-      "Event Name": "nnovators Arena ",
+      "Event Name": "Innovators Arena ",
       "Venue": "113B ClassRoom ",
       "Timing": "10AM – 11PM"
     },

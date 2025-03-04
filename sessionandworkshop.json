@@ -1,31 +1,40 @@
 {
   "workshopEvents": [
     {
-      "EventName": "The Nazm Canvas",
-      "ClubName": "Lafz-e-Bayan",
-      "venue": "Conclave Centre",
-      "date": "07 Mar 2025",
-      "time": "03PM - 06PM",
-      "description": "The competition celebrates poetry, encouraging participants to showcase their creativity and captivate audiences. It aims to inspire self-expression while recognizing and rewarding outstanding talent.",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+      "Club Name": "Soft Civil Club ",
+      "Event Name": "Soft Civil Seminar",
+      "Venue": "SH 1",
+      "Date": "07 Mar 2025",
+      "Timing": "02PM - 03PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056469/Event%20posters/soft_odb3uo.png"
     },
     {
-      "EventName": "Speech Competition",
-      "ClubName": "Hindi Samiti",
-      "venue": "Conclave Centre",
-      "date": "08 Mar 2025",
-      "time": "11AM - 01PM",
-      "description": "A Gwalior city-level speech competition inviting students to articulate their vision for Viksit Bharat @2047. Participants will deliver impactful speeches, emphasizing the role of youth in building a progressive and developed Bharat.",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+      "Club Name": "Meditation Club ",
+      "Event Name": "Meditation Session ",
+      "Venue": "Director's Lawn ",
+      "Date": "08 Mar 2025",
+      "Timing": "09AM – 10PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056476/Event%20posters/19_kt23fu.png"
     },
     {
-      "EventName": "Debate Competition",
-      "ClubName": "Speakers Club",
-      "venue": "SH 11",
-      "date": "09 Mar 2025",
-      "time": "11AM - 01PM",
-      "description": "It's the Clash of Wits and Wisdom! An event that allows the participant's to present their veiws on the educational, cultural and innovative topics and themes, showcasing the might of effective communication and intellectual argumentation. Join TCS in Aarunya to celebrate the worth of words.",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+      "Club Name": "ISTE X IETE",
+      "Event Name": "Pathway Exploration",
+      "Date": "08 Mar 2025",
+      "Venue": "SH 11",
+      "Description": "",
+      "Activity Type": "",
+      "Timing": "01PM – 03PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056476/Event%20posters/19_kt23fu.png"
+    },
+    {
+      "Club Name": "IEI Electrical Chapter ",
+      "Event Name": "IEI Session",
+      "Venue": "SH 3",
+      "Description": "An event for innovative minds to exhibit their creativity through posters and learn from others.",
+      "Activity Type": "",
+      "Date": "09 Mar 2025",
+      "Timing": "01PM – 03PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056481/Event%20posters/41_asc4fl.png"
     }
   ]
 }

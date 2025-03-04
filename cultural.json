@@ -1,66 +1,32 @@
 {
   "culturalEvents": [
-    {
-      "ClubName": "Rashtraay",
-      "EventName": "Nukkad Natak Annual Play",
-      "venue": "Main Hall Garden",
-      "date": "07 Mar 2025",
-      "time": "02PM - 04PM",
-      "description": "Rashtraay's street plays (Nukkad Natak) are a reflection of society's deficits, challenging conventions. Their work provokes and encourages one to think, leaving a long-lasting impact.",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-    },
-    {
-      "ClubName": "",
-      "EventName": "Rahgir Performance",
-      "venue": "Stage Ground",
-      "date": "07 Mar 2025",
-      "time": "07PM - 09PM",
-      "description": "Get ready for an electrifying night with Rahgir! Experience soulful melodies and high-energy beats. Dance, sing along, and connect with fellow music lovers. Let loose and make unforgettable memories!",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-    },
-    {
-      "ClubName": "Fitness Club",
-      "EventName": "Treasure Hunt",
-      "venue": "SH 1",
-      "date": "08 Mar 2025",
-      "time": "09AM – 01PM",
-      "description": "A thrilling treasure hunt game designed to test participants' problem-solving skills, teamwork, and quick thinking. Teams will decode clues, navigate through challenges, and race against time to discover hidden treasures. The event aims to foster camaraderie and strategic thinking among participants while ensuring a fun and engaging experience.",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-    },
-    {
-      "EventName": "Singing Competition",
-      "ClubName": "Bandish",
-      "venue": "SAC",
-      "date": "08 Mar 2025",
-      "time": "12PM – 04PM",
-      "description": "A platform for vocalists to showcase talent, compete, and gain exposure, judged on vocal technique, musicality, stage presence, and overall performance. Allowing the hidden gems to dye the world in their melodies.",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-    },
+{
+  "Club Name": "",
+  "Event Name": "Rahgir Performance",
+  "Venue": "Stage Ground",
+  "Description": "Rahgir, a band that has been making waves in the music industry, will perform live, showcasing their talent and captivating the audience with their soulful music.",
+  "Date": "07 Mar 2025",
+  "Activity Type": "",
+  "Timing": "07PM to the end",
+  "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+},
     {
       "ClubName": "Bandish",
-      "EventName": "Music Performance by Bandish",
+      "EventName": "Bandish Live Performance ",
       "venue": "Stage Ground",
       "date": "08 Mar 2025",
-      "time": "08PM – 09PM",
+     "Timing": "05PM – 08PM",
       "description": "MITS will harmonize with melodies as Bandish brings Notes and Harmony 3.0, an exciting blend of Indian classical, Sufi numbers, and contemporary beats in a concert.",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
     {
-      "EventName": "Dance Competition",
-      "ClubName": "Dance Club",
-      "venue": "SAC",
-      "date": "09 Mar 2025",
-      "time": "12PM – 04PM",
-      "description": "A vibrant event where dancers of various styles and skill levels showcase their talent, creativity, and passion. It's a celebration of dance in all its forms, often filled with energy, excitement, and inspiring displays of athleticism and artistry. Participants are judged on factors like technique, artistry, musicality, and stage presence.",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-    },
-    {
-      "EventName": "Valedictory Ceremony",
-      "ClubName": "",
-      "venue": "Colloquium",
-      "date": "09 Mar 2025",
-      "time": "05PM – 07PM",
-      "description": "A celebration of achievements with speeches, awards, and reflections, marking the journey's completion and offering a send-off for future endeavors to attain the in & outs of their dreams along with the approriate ways to achieve them.",
+      "Club Name": "Dance Club",
+      "Event Name": "Nritya Sangam Performance",
+      "Venue": "Stage Ground",
+      "date": "08 Mar 2025",
+      "Description": "Get ready to find your rhythm and dance like no one's watching because it's about to be a crazy night filled with enthusiasm and an electrifying vibe where a vibrant atmosphere is set, offering a chance to let loose, enjoy music, and connect with others who share a passion for rhythm and dance.",
+      "Activity Type": "",
+      "Timing": "08PM – 09PM",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
     {
@@ -68,7 +34,7 @@
       "EventName": "DJ AALIYA",
       "venue": "Stage Ground",
       "date": "09 Mar 2025",
-      "time": "07PM – 09PM",
+       "Timing": "07PM to the end",
       "description": "A short break from the stress and worries, all shall lose themselves in the unsung melodies, along the lead of DJ AALIYA and the team.",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     }
