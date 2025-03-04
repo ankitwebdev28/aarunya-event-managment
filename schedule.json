@@ -3,21 +3,29 @@
     {
       "Club Name": "",
       "Event Name": "Inaugral Ceremony",
-      "Venue": "Colloquium",
+      "Venue": "Colloquium Hall",
       "Timing": "12PM - 02PM",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
     },
     {
+      "Club Name": "Soft Civil Club ",
+      "Event Name": "Soft Civil Seminar",
+      "Venue": "SH 1",
+      "Timing": "02PM - 03PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056469/Event%20posters/soft_odb3uo.png"
+    },
+    {
       "Club Name": "Rashtraay",
-      "Event Name": "Nukkad Natak Annual Play",
-      "Venue": "Main Hall Garden",
+      "Event Name": "Nukkad Natak Competition",
+      "Venue": "Director's Lawn ",
       "Description": "Rashtraay's street plays (Nukkad Natak) are a reflection of society's deficits, challenging conventions. Their work provokes and encourages one to think, leaving a long-lasting impact.",
       "Activity Type": "",
-      "Timing": "02PM - 04PM"
+      "Timing": "02PM - 04PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056470/Event%20posters/rashtraay_mnap1e.png"
     },
     {
       "Club Name": "GDG",
-      "Event Name": "Hack UI",
+      "Event Name": "UI Ignite ",
       "Venue": "AI Building Lab",
       "Description": "",
       "Activity Type": "",
@@ -31,10 +39,11 @@
       "Venue": "Conclave Centre",
       "Description": "The competition celebrates poetry, encouraging participants to showcase their creativity and captivate audiences. It aims to inspire self-expression while recognizing and rewarding outstanding talent.",
       "Activity Type": "",
-      "Timing": "03PM - 06PM"
+      "Timing": "03PM - 06PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056475/Event%20posters/39_yiotyq.png"
     },
     {
-      "Club Name": "",
+      "Club Name": "Hindi Samiti",
       "Event Name": "Easy Writing Competition",
       "Venue": "SH 11",
       "Description": "The event will feature external artists, offering students and the college community a chance to engage with professional artwork and deepen their appreciation for the arts.",
@@ -43,39 +52,39 @@
     },
     {
       "Club Name": "",
-      "Event Name": "Buffer time",
-      "Description": "",
-      "Activity Type": "",
-      "Venue": "",
-      "Timing": "30 - 40 Mins"
-    },
-    {
-      "Club Name": "",
       "Event Name": "Rahgir Performance",
       "Venue": "Stage Ground",
       "Description": "Rahgir, a band that has been making waves in the music industry, will perform live, showcasing their talent and captivating the audience with their soulful music.",
       "Activity Type": "",
-      "Timing": "07PM - 09PM"
+      "Timing": "07PM to the end"
     }
   ],
   "Day 2": [
+    {
+      "Club Name": "Meditation Club ",
+      "Event Name": "Meditation Session ",
+      "Venue": "Director's Lawn ",
+      "Timing": "09AM – 10PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056476/Event%20posters/19_kt23fu.png"
+    },
     {
       "Club Name": "Fitness Club",
       "Event Name": "Treasure Hunt",
       "Venue": "SH 1",
       "Description": "A thrilling treasure hunt game designed to test participants' problem-solving skills, teamwork, and quick thinking. Teams will decode clues, navigate through challenges, and race against time to discover hidden treasures. The event aims to foster camaraderie and strategic thinkingamong participants while ensuring a fun and engaging experience.",
       "Activity Type": "",
-      "Timing": "09AM – 01PM"
+      "Timing": "09AM – 01PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056475/Event%20posters/36_ejphqn.png"
     },
     {
-      "Club Name": "Asimov Robotics",
+      "Club Name": "ASIMOV Robotics Club",
       "Event Name": "MAZE - Solving Bot",
-      "Budget": "",
       "Prize Pool": "8K",
       "Venue": "Basket Ball Court",
       "Description": "A Gwalior city-level speech competition inviting students to articulate their vision for Viksit Bharat @2047. Participants will deliver impactful speeches, emphasizing the role of youth in building a progressive and developed Bharat.",
       "Activity Type": "",
-      "Timing": "10AM – 12PM"
+      "Timing": "10AM – 12PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056478/Event%20posters/21_hptzuc.png"
     },
     {
       "Club Name": "Hindi Samiti",
@@ -83,23 +92,25 @@
       "Venue": "Conclave Center",
       "Description": "This expert talk cum field visit is in collaboration with the solar industry where participants typically tour facilities such as solar panel manufacturing plants, solar farms, or research centers, while the expert provides deeper insights into topics like technology, industry trends, challenges, and career opportunities.",
       "Activity Type": "",
-      "Timing": "11AM – 01PM"
+      "Timing": "11AM – 01PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056466/Event%20posters/hindi_samiti_t6kkmx.png"
     },
     {
-      "Club Name": "Bandish",
-      "Event Name": "Singing Competition",
+      "Club Name": "Dance Club ",
+      "Event Name": "Dance Competition ",
       "Venue": "SAC",
-      "Description": "An AI exhibition showcases the latest advancements and applications of artificial intelligence. It typically features interactive displays, demonstrations, and presentations that explore various aspects of AI, from machine learning and computer vision to natural language processing and robotics. These exhibitions offer a glimpse into the potential of AI to transform industries and our daily lives.",
       "Activity Type": "",
-      "Timing": "12PM – 04PM"
+      "Timing": "12PM – 04PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056462/Event%20posters/13_emk63y.png"
     },
     {
       "Club Name": "Frame Flicks Club",
       "Event Name": "Castle of Frame Flicks",
-      "Venue": "SH 2 & SH 3",
+      "Venue": "Main Hall Ground ",
       "Description": "",
       "Activity Type": "",
-      "Timing": "01PM – 03PM"
+      "Timing": "01PM – 03PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056472/Event%20posters/34_wlyxsd.png"
     },
     {
       "Club Name": "ISTE X IETE",
@@ -108,14 +119,6 @@
       "Description": "",
       "Activity Type": "",
       "Timing": "01PM – 03PM"
-    },
-    {
-      "Club Name": "Disaster Club",
-      "Event Name": "Disaster Drill",
-      "Venue": "SH 1 & Front Ground",
-      "Description": "Trivia tournament: participants will go through multiple rounds testing their range of knowledge, oratory skills, and presence of mind. A fun and engaging contest where individuals or teams answer questions. It tests knowledge of recent and past  phenomena, from the biggest blockbusters to viral memes.",
-      "Activity Type": "",
-      "Timing": "03PM – 06PM"
     },
     {
       "Club Name": "StopNot",
@@ -127,29 +130,21 @@
       "Guest & Speakers": "Yet To Decide",
       "Timing": "04PM – 06PM"
     },
-    {
-      "Club Name": "",
-      "Event Name": "Buffer time",
-      "Venue": "",
-      "Description": "",
+        {
+      "Club Name": "Bandish",
+      "Event Name": "Bandish Live Performance",
+      "Venue": "Stage Ground",
+      "Description": "Get ready to find your rhythm and dance like no one's watching because it's about to be a crazy night filled with enthusiasm and an electrifying vibe where a vibrant atmosphere is set, offering a chance to let loose, enjoy music, and connect with others who share a passion for rhythm and dance.",
       "Activity Type": "",
-      "Timing": "30-40 Mins"
+      "Timing": "05PM – 08PM"
     },
     {
-      "Club Name": "Nritya Sangam",
+      "Club Name": "Dance Club",
       "Event Name": "Nritya Sangam Performance",
       "Venue": "Stage Ground",
       "Description": "Get ready to find your rhythm and dance like no one's watching because it's about to be a crazy night filled with enthusiasm and an electrifying vibe where a vibrant atmosphere is set, offering a chance to let loose, enjoy music, and connect with others who share a passion for rhythm and dance.",
       "Activity Type": "",
       "Timing": "07PM – 08PM"
-    },
-    {
-      "Club Name": "Bandish",
-      "Event Name": "Music Performance by Bandish",
-      "Venue": "Stage Ground",
-      "Description": "Get ready to find your rhythm and dance like no one's watching because it's about to be a crazy night filled with enthusiasm and an electrifying vibe where a vibrant atmosphere is set, offering a chance to let loose, enjoy music, and connect with others who share a passion for rhythm and dance.",
-      "Activity Type": "",
-      "Timing": "08PM – 09PM"
     }
   ],
   "Day 3": [
@@ -162,12 +157,19 @@
       "Timing": "09AM – 11AM"
     },
     {
-      "Club Name": "",
+      "Club Name": "Innovation & DIY Club",
+      "Event Name": "nnovators Arena ",
+      "Venue": "113B ClassRoom ",
+      "Timing": "10AM – 11PM"
+    },
+    {
+      "Club Name": "Holistic Health Club ",
       "Event Name": "Arcade Mania",
       "Venue": "Director's Lawn",
       "Description": "A platform for vocalists to showcase talent and compete while being judged on vocal technique, musicality, and stage presence.",
       "Activity Type": "",
-      "Timing": "9AM – 12PM"
+      "Timing": "9AM – 12PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056464/Event%20posters/arcade_mania_mlwt9h.png"
     },
     {
       "Club Name": "IEEE Chapter",
@@ -175,7 +177,8 @@
       "Venue": "Conclave Centre",
       "Description": "An event for innovative minds to exhibit their creativity through posters and learn from others.",
       "Activity Type": "",
-      "Timing": "11AM – 01PM"
+      "Timing": "11AM – 01PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056479/Event%20posters/23_qc77er.png"
     },
     {
       "Club Name": "Speakers Club",
@@ -183,38 +186,43 @@
       "Venue": "SH 11",
       "Description": "An event for innovative minds to exhibit their creativity through posters and learn from others.",
       "Activity Type": "",
-      "Timing": "11AM – 01PM"
+      "Timing": "11AM – 01PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056467/Event%20posters/TSC_q9cjmi.png"
     },
     {
-      "Club Name": "Dance Club",
-      "Event Name": "Dance Competition",
+      "Club Name": "Bandish",
+      "Event Name": "Singing Competition",
       "Venue": "SAC",
       "Description": "An event for innovative minds to exhibit their creativity through posters and learn from others.",
       "Activity Type": "",
-      "Timing": "12PM – 04PM"
+      "Timing": "12PM – 04PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056465/Event%20posters/sss_fe2tti.png"
     },
     {
-      "Club Name": "",
+      "Club Name": "IEI Electrical Chapter ",
       "Event Name": "IEI Session",
       "Venue": "SH 3",
       "Description": "An event for innovative minds to exhibit their creativity through posters and learn from others.",
       "Activity Type": "",
-      "Timing": "01PM – 03PM"
+      "Timing": "01PM – 03PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056481/Event%20posters/41_asc4fl.png"
     },
     {
-      "Club Name": "",
+      "Club Name": "Querencia",
       "Event Name": "B.Y.O.B",
       "Venue": "SH 7",
       "Description": "An event for innovative minds to exhibit their creativity through posters and learn from others.",
       "Activity Type": "",
-      "Timing": "01PM – 04PM"
+      "Timing": "01PM – 04PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056462/Event%20posters/byob_dl8gp2.png"
     },
     {
       "Club Name": "StopNot",
       "Event Name": "Content Creation Workshop",
-      "Venue": "Cocnlave Center",
+      "Venue": "Conclave Center",
       "Activity Type": "Workshop",
-      "Timing": "03PM – 05PM"
+      "Timing": "03PM – 05PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056475/Event%20posters/sn_wyeuue.png"
     },
     {
       "Club Name": "",
@@ -230,7 +238,7 @@
       "Venue": "Stage Ground",
       "Description": "A short break from stress, featuring an artist's live performance.",
       "Activity Type": "",
-      "Timing": "07PM – 09PM"
+      "Timing": "07PM to the end"
     }
   ]
 }

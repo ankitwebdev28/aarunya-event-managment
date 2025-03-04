@@ -1,70 +1,84 @@
 {
     "Carnival": [
-        {
-            "Club Name": "Meditation Club",
-            "Event Name": "Palm Reading",
-            "Venue": "Infront of Basketball Court ",
-            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "Club Name": "Skyroads Club",
-            "Event Name": "Gaming Arena",
-            "Venue": "Area in front of Conclave center",
-            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "Club Name": "IEI Electronics Chapter",
-            "Event Name": "Electronics Games",
-            "Venue": "Carnival Stalls",
-            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "Club Name": "Architecture Club",
-            "Event Name": "Pottery and Clay",
-            "Venue": "Infront of Basketball Court ",
-            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "Club Name": "Humans of MITS",
-            "Event Name": "Story Booth",
-            "Venue": "In front of canteen",
-            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "Club Name": "Artistry",
-            "Event Name": "Art Stall",
-            "Venue": "Infront of Basketball Court ",
-            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "Club Name": "Fitness Club",
-            "Event Name": "Fit Stall",
-            "Venue": "Infront of Basketball Court ",
-            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "Club Name": "Lafz-e-Bayan",
-            "Event Name": "Open Mic",
-            "Venue": "Infront of Basketball Court ",
-            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "Club Name": "Scavengers Club",
-            "Event Name": "Karting X Drifting",
-            "Venue": "Old Basketball court",
-            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "Club Name": "Hindi Samiti",
-            "Event Name": "Letter Box ",
-            "Venue": "Carnival Stalls",
-            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "Club Name": "Electronics Club",
-            "Event Name": "Ultimate Gaming Zone",
-            "Venue": "Basket ball court",
-            "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        }
+      {
+        "Club Name": "Cadcrew",
+        "Event Name": "Aakarkala",
+        "Venue": "Statue Ground ",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056480/Event%20posters/aakarkala_yelr8i.png"
+      },
+      {
+        "Club Name": "IEI Electronics Chapter",
+        "Event Name": "Electronics Games",
+        "Venue": "Statue Ground",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+      },
+      {
+        "Club Name": "Skyroads Club",
+        "Event Name": "Gaming Arena",
+        "Venue": "Statue Ground ",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056466/Event%20posters/skyroads_yn1hlf.png"
+      },
+      {
+        "Club Name": "Architecture Club",
+        "Event Name": "Pottery and Clay",
+        "Venue": "Statue Ground ",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+      },
+      {
+        "Club Name": "Meditation Club",
+        "Event Name": "Meditation Stall ",
+        "Venue": "Canteen Area ",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+      },
+
+      {
+        "Club Name": "Artistry",
+        "Event Name": "Art Stall",
+        "Venue": "Statue Ground",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056465/Event%20posters/artistry_hkf9h3.png"
+      },
+      {
+        "Club Name": "Fitness Club",
+        "Event Name": "Fit Stall",
+        "Venue": "Statue Ground ",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+      },
+      {
+        "Club Name": "Lafz-e-Bayan",
+        "Event Name": "Open Mic",
+        "Venue": "Canteen Area  ",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+      },
+      {
+        "Club Name": "Hindi Samiti",
+        "Event Name": "Letter Box ",
+        "Venue": "Canteen Area ",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056470/Event%20posters/47_lcn2zr.png"
+      },
+          {
+        "Club Name": "Electronics Club",
+        "Event Name": "Ultimate Gaming Zone",
+        "Venue": "Statue Ground",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+      },
+      {
+        "Club Name": "The AI Club ",
+        "Event Name": "AI Exhibition ",
+        "Venue": "Room No. 112",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056475/Event%20posters/45_pmroga.png"
+      },
+      {
+        "Club Name": "Aristry Club ",
+        "Event Name": "Art Exhibition ",
+        "Venue": "Statue Ground ",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056465/Event%20posters/artistry_hkf9h3.png"
+      },
+      {
+        "Club Name": "Scavengers Club",
+        "Event Name": "Gokart",
+        "Venue": "Near New Building ",
+        "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056467/Event%20posters/go_karting_bt4kbl.png"
+      }
+  
     ]
 }

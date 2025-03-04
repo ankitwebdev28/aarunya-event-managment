@@ -1,8 +1,8 @@
 {
     "competitions": [
         {
-            "title": "UI/UX Competition",
-            "venue": "Colloquium",
+            "title": " UI Ignite ",
+            "venue": "AI Building Lab ",
             "club": "Organizer: GDG MITS",
             "registerLink": "https://linktr.ee/aarunya_mits",
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
@@ -57,7 +57,7 @@
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
-            "title": "The Lafz Canvas Shayari Competition",
+            "title": "Shayari Competition",
             "venue": "Conclave Centre",
             "club": "Organizer: Lafz-e-Bayan",
             "registerLink": "https://linktr.ee/aarunya_mits",
@@ -72,14 +72,14 @@
         },
         {
             "title": "AI Exhibition",
-            "venue": "",
+            "venue": " Room No. 112",
             "club": "Organizer: AI Club",
             "registerLink": "https://linktr.ee/aarunya_mits",
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
         {
             "title": "ART Exhibition",
-            "venue": "",
+            "venue": "Statue Ground ",
             "club": "Organizer: ART Club",
             "registerLink": "https://linktr.ee/aarunya_mits",
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
@@ -94,7 +94,7 @@
         {
             "title": "Essay Writing Competition",
             "venue": "SH 11",
-            "club": "",
+            "club": "Hindi Samiti",
             "registerLink": "https://linktr.ee/aarunya_mits",
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
@@ -102,13 +102,6 @@
             "title": "Arcade Mania",
             "venue": "Director's Lawn",
             "club": "Organizer: HHC",
-            "registerLink": "https://linktr.ee/aarunya_mits",
-            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
-        },
-        {
-            "title": "MITS Swad Sangam",
-            "venue": "Room No. 113",
-            "club": "Organizer: Nutrition Ninja",
             "registerLink": "https://linktr.ee/aarunya_mits",
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
         },
