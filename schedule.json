@@ -4,8 +4,7 @@
       "Club Name": "",
       "Event Name": "Inaugral Ceremony",
       "Venue": "Colloquium Hall",
-      "Timing": "12PM - 02PM",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+      "Timing": "12PM - 02PM"
     },
     {
       "Club Name": "Soft Civil Club ",
@@ -40,7 +39,8 @@
       "Venue": "SH 11",
       "Description": "The event will feature external artists, offering students and the college community a chance to engage with professional artwork and deepen their appreciation for the arts.",
       "Activity Type": "",
-      "Timing": "04PM - 06PM"
+      "Timing": "04PM - 06PM",
+        "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741072390/Event%20posters/WhatsApp_Image_2025-03-04_at_12.36.59_2c3653e0_arxtzv.jpg"
     },
     {
       "Club Name": "",
@@ -48,7 +48,8 @@
       "Venue": "Stage Ground",
       "Description": "Rahgir, a band that has been making waves in the music industry, will perform live, showcasing their talent and captivating the audience with their soulful music.",
       "Activity Type": "",
-      "Timing": "07PM to the end"
+      "Timing": "07PM to the end",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741075558/Event%20posters/POSTER_12_X_18_k2kzf2.png"
     }
   ],
   "Day 2": [
@@ -231,7 +232,8 @@
       "Venue": "Stage Ground",
       "Description": "A short break from stress, featuring an artist's live performance.",
       "Activity Type": "",
-      "Timing": "07PM to the end"
+      "Timing": "07PM to the end",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741075897/Event%20posters/dj_12x18_eccj8x.jpg"
     }
   ]
 }

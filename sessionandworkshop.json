@@ -1,39 +1,39 @@
 {
   "workshopEvents": [
     {
-      "Club Name": "Soft Civil Club ",
-      "Event Name": "Soft Civil Seminar",
-      "Venue": "SH 1",
-      "Date": "07 Mar 2025",
+      "ClubName": "Soft Civil Club ",
+      "EventName": "Soft Civil Seminar",
+      "venue": "SH 1",
+      "date": "07 Mar 2025",
       "Timing": "02PM - 03PM",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056469/Event%20posters/soft_odb3uo.png"
     },
     {
-      "Club Name": "Meditation Club ",
-      "Event Name": "Meditation Session ",
-      "Venue": "Director's Lawn ",
-      "Date": "08 Mar 2025",
+      "ClubName": "Meditation Club ",
+      "EventName": "Meditation Session ",
+      "venue": "Director's Lawn ",
+      "date": "08 Mar 2025",
       "Timing": "09AM – 10PM",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056476/Event%20posters/19_kt23fu.png"
     },
     {
-      "Club Name": "ISTE X IETE",
-      "Event Name": "Pathway Exploration",
-      "Date": "08 Mar 2025",
-      "Venue": "SH 11",
-      "Description": "",
+      "ClubName": "ISTE X IETE",
+      "EventName": "Pathway Exploration",
+      "date": "08 Mar 2025",
+      "venue": "SH 11",
+      "description": "",
       "Activity Type": "",
-      "Timing": "01PM – 03PM",
+      "time": "01PM – 03PM",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056476/Event%20posters/19_kt23fu.png"
     },
     {
-      "Club Name": "IEI Electrical Chapter ",
-      "Event Name": "IEI Session",
-      "Venue": "SH 3",
-      "Description": "An event for innovative minds to exhibit their creativity through posters and learn from others.",
+      "ClubName": "IEI Electrical Chapter ",
+      "EventName": "IEI Session",
+      "venue": "SH 3",
+      "description": "An event for innovative minds to exhibit their creativity through posters and learn from others.",
       "Activity Type": "",
-      "Date": "09 Mar 2025",
-      "Timing": "01PM – 03PM",
+      "date": "09 Mar 2025",
+      "time": "01PM – 03PM",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056481/Event%20posters/41_asc4fl.png"
     }
   ]

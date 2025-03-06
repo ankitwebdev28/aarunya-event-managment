@@ -1,24 +1,23 @@
 {
   "technicalEvents": [
     {
-      "Club Name": "StopNot",
-      "Event Name": "Open Podcast",
+      "ClubName": "StopNot",
+      "EventName": "Open Podcast",
       "Budget": "",
-      "Venue": " Conclave Center",
-      "Date": "08 Mar 2025",
-      "Description": "Open Podcast - Podcast in front of a live audience with guests in fields of AI, entrepreneurship, and content creation. This will also be recorded and produced for everyone to see via an online medium.",
+      "venue": " Conclave Center",
+      "date": "08 Mar 2025",
+      "description": "Open Podcast - Podcast in front of a live audience with guests in fields of AI, entrepreneurship, and content creation. This will also be recorded and produced for everyone to see via an online medium.",
       "Activity Type": "Podcast",
       "Guest & Speakers": "Yet To Decide",
-      "Timing": "04PM – 06PM",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+      "time": "04PM – 06PM"
     },
     {
-      "Club Name": "StopNot",
-      "Event Name": "Content Creation Workshop",
-      "Venue": "Conclave Center",
+      "ClubName": "StopNot",
+      "EventName": "Content Creation Workshop",
+      "venue": "Conclave Center",
       "Activity Type": "Workshop",
-      "Date": "09 Mar 2025",
-      "Timing": "03PM – 05PM",
+      "date": "09 Mar 2025",
+      "time": "03PM – 05PM",
       "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056475/Event%20posters/sn_wyeuue.png"
     }
   ]
