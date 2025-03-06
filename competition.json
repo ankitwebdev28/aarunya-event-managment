@@ -1,13 +1,6 @@
 {
     "competitions": [
         {
-            "title": " UI Ignite ",
-            "venue": "AI Building Lab ",
-            "club": "Organizer: GDG MITS",
-            "registerLink": "https://linktr.ee/aarunya_mits",
-            "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png" 
-        },
-        {
           "title": "Nukkad Natak Competition",
           "venue": "Main Hall Garden",
           "club": "Organizer: Rashtraay",
@@ -76,13 +69,6 @@
             "club": "Organizer: AI Club",
             "registerLink": "https://linktr.ee/aarunya_mits",
             "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056475/Event%20posters/45_pmroga.png"
-        },
-        {
-          "title": "ART Exhibition",
-          "venue": "Statue Ground ",
-          "club": "Organizer: ART Club",
-          "registerLink": "https://linktr.ee/aarunya_mits",
-          "Image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056465/Event%20posters/artistry_hkf9h3.png"
         },
         {
           "title": "Frame Flicks",
