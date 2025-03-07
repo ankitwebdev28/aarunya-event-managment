@@ -1,13 +1,24 @@
 {
   "technicalEvents": [
     {
-      "EventName": "Poster Event",
-      "ClubName": "IEEE Chapter",
-      "venue": "Conclave Centre",
+      "ClubName": "StopNot",
+      "EventName": "Open Podcast",
+      "Budget": "",
+      "venue": " Conclave Center",
+      "date": "08 Mar 2025",
+      "description": "Open Podcast - Podcast in front of a live audience with guests in fields of AI, entrepreneurship, and content creation. This will also be recorded and produced for everyone to see via an online medium.",
+      "Activity Type": "Podcast",
+      "Guest & Speakers": "Yet To Decide",
+      "time": "04PM – 06PM"
+    },
+    {
+      "ClubName": "StopNot",
+      "EventName": "Content Creation Workshop",
+      "venue": "Conclave Center",
+      "Activity Type": "Workshop",
       "date": "09 Mar 2025",
-      "time": "11AM – 01PM",
-      "description": "An event for innovative minds to exhibit their creativity through posters and learn from others.",
-      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1739351428/Event%20posters/Untitled_design_vji5qw.png"
+      "time": "03PM – 05PM",
+      "image": "https://res.cloudinary.com/dgimh0a2j/image/upload/v1741056475/Event%20posters/sn_wyeuue.png"
     }
   ]
 }
